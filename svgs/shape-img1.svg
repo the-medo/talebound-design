@@ -1,0 +1,7 @@
+<!--?xml version="1.0" standalone="no"?-->
+              <svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" version="1.1">
+                  <mask id="svgmask1">
+                <path fill="url(#sw-gradient)" d="M22.3,-27.9C29.1,-20.8,34.9,-14,36.2,-6.4C37.5,1.2,34.4,9.6,30.4,18.5C26.4,27.4,21.6,36.8,14.2,39.9C6.8,43,-3.2,39.7,-12,35.4C-20.7,31.1,-28.1,25.8,-32,18.7C-35.8,11.5,-36.1,2.6,-34.5,-6.1C-33,-14.7,-29.7,-23.1,-23.6,-30.2C-17.6,-37.4,-8.8,-43.4,-0.5,-42.7C7.7,-42.1,15.5,-34.9,22.3,-27.9Z" width="100%" height="100%" transform="translate(50 50)" stroke-width="0" style="transition: all 0.3s ease 0s;" stroke="url(#sw-gradient)"></path>
+                  </mask>
+                  <image xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="dnd.png" mask="url(#svgmask1)"></image>
+              </svg>
